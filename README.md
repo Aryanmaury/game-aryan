@@ -1,1 +1,1 @@
-# game-aryan
+# gamearyan
